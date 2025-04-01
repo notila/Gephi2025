@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "La taille des noeuds est fonction du nombre de flux de consommations intermédiaires sortant de ces noeuds",
-    "intro": "Cette cartographie dynamique permet de mettre en avant les multiples interactions entre les branches de la filière. Il permet d'identifier l'amont et l'aval de chaque branche. </br></br>Chacune des 55 branches de la filière est représentée par une bulle.</br></br>La taille des noeuds est fonction du nombre de flux de consommations intermédiaires sortant de ces noeuds. </br></br>L'épaisseur des arcs illustre le volume monétaire échangé lors d'achats de consommation intermédiaire, qui sont la valeur des biens et services transformés ou enti&egrave;rement consommés au cours du processus de production. ",
+    "intro": "Cette cartographie dynamique permet de mettre en avant les multiples interactions entre les branches de la filière. Il permet d'identifier l'amont et l'aval de chaque branche. </br></br>Chacune des 53 branches de la filière est représentée par une bulle.</br></br>La taille des noeuds est fonction du nombre de flux de consommations intermédiaires sortant de ces noeuds. </br></br>L'épaisseur des arcs illustre le volume monétaire échangé lors d'achats de consommation intermédiaire, qui sont la valeur des biens et services transformés ou enti&egrave;rement consommés au cours du processus de production. ",
     "title": ""
   },
   "legend": {
